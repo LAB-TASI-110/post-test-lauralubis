@@ -1,0 +1,25 @@
+buatkan kode dalam bahasa c dengan librarynya di c 18 visual studio code yang berjalan di windows, kodenya disatukan dalam fungsi utama yang lengkap, tanpa adanya batasan negatif dan hindari kode eror, perhatikan standar kualitas keamanan, fokus pada backend, persona yang diinginkan adalah seorang mahasiswa semester 2 yang sedang belajar membuat kode, buatkan langkah-langkah dalam berpikir serta tidak memisahkan bagian konteks dalam jawaban. 
+tugas ini akan menampilakan barang-barang dengan 2 kategori yaitu kategori pakaian dan kategori bahan dapur
+
+kategori pakaian itu ada 2 barang yaitu
+- dasi sd (stok=22pcs) dan 
+- rok pramuka (stok=5pcs)
+
+kategori bahan dapur ada 2 barang yaitu:
+- minyak (stok=120pcs)
+- gula (stok=85pcs)
+
+deret stok yaitu :
+s1 => minyak
+s2 => rok pramuka
+s3 => gula
+sN => dasi sd
+
+N=jumlah total data 
+
+program akan mampu menampilkan dan menentukan total stok hanya untuk satu kategori yang diminta
+
+
+
+
+kode eror, perbaiki dan jelaskan dimana letak kesalahannya

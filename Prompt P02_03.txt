@@ -1,0 +1,4 @@
+buatkan kode dalam bahasa c dengan librarynya di c 18 visual studio code yang berjalan di windows, kodenya disatukan dalam fungsi utama yang lengkap, tanpa adanya batasan negatif dan hindari kode eror, perhatikan standar kualitas keamanan, fokus pada backend, persona yang diinginkan adalah seorang mahasiswa semester 2 yang sedang belajar membuat kode, buatkan langkah-langkah dalam berpikir serta tidak memisahkan bagian konteks dalam jawaban. 
+program akan membantu mendukung operasional cafetaria di IT Del
+
+tambahin menunya seperti: bakwan = 10000, pisang coklat = 10000, nugget = 15000, kopi = 7000, roti isi ayam = 15000,  
