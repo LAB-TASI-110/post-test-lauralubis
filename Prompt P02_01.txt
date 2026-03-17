@@ -1,0 +1,30 @@
+buatkan kode dalam bahasa c dengan librarynya di c 18 visual studio code yang berjalan di windows, kodenya disatukan dalam fungsi utama yang lengkap, tanpa adanya batasan negatif dan hindari kode eror, perhatikan standar kualitas keamanan, fokus pada backend, persona yang diinginkan adalah seorang mahasiswa semester 2 yang sedang belajar membuat kode, buatkan langkah-langkah dalam berpikir serta tidak memisahkan bagian konteks dalam jawaban. 
+judul tugas ini adalah system layanan del-express, ini adalah layanan untuk mengantarkan paket, bisa ke luar pulau atau ke dalam pulau. sudah ada daftar Harga ongkos kirim pakte per kilogram ke beberapa kota tujuan.daftarnya adalah sebagai berikut:
+Daftar ongkos kirim del-express
+kode kota | nama kota | ongkos kirim/kg | keterangan
+MDN | medan | 8000 | dalam pulau
+BLG |balige | 5000 |Dalam pulau
+JKT |Jakarta | 12000 |luar pulau
+SBY | Surabaya | 13.000 |luar pulau
+
+juga ada poster promo yang tersedia
+promo ongkir lebaran
+syarat | promo yang didapat
+total berat pengiriman lebih dari 10 kg | diskon onglir sebesar 10%
+pengiriman ke kota luar pulau | mendapatkan asuransi gratis
+
+lalu ada 2 paket yang telah ditimbang, paket Butet 1 kg, paket Ucok 3/2 * paket Butet.
+
+lalu petugas hanya perlu memasukkan kode kota tujuan serta berat paket Butet, system akan menghitung seluruh biaya pengiriman termasuk berat berat paket Ucok
+
+Input:
+
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+Output: Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,
